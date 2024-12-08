@@ -1,0 +1,16 @@
+C:\Users\Asus\source\repos\Occerance of each character\Occerance of each character\bin\Debug\net5.0\Occerance of each character.exe
+C:\Users\Asus\source\repos\Occerance of each character\Occerance of each character\bin\Debug\net5.0\Occerance of each character.deps.json
+C:\Users\Asus\source\repos\Occerance of each character\Occerance of each character\bin\Debug\net5.0\Occerance of each character.runtimeconfig.json
+C:\Users\Asus\source\repos\Occerance of each character\Occerance of each character\bin\Debug\net5.0\Occerance of each character.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\Occerance of each character\Occerance of each character\bin\Debug\net5.0\Occerance of each character.dll
+C:\Users\Asus\source\repos\Occerance of each character\Occerance of each character\bin\Debug\net5.0\ref\Occerance of each character.dll
+C:\Users\Asus\source\repos\Occerance of each character\Occerance of each character\bin\Debug\net5.0\Occerance of each character.pdb
+C:\Users\Asus\source\repos\Occerance of each character\Occerance of each character\obj\Debug\net5.0\Occerance of each character.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\Occerance of each character\Occerance of each character\obj\Debug\net5.0\Occerance of each character.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\Occerance of each character\Occerance of each character\obj\Debug\net5.0\Occerance of each character.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Occerance of each character\Occerance of each character\obj\Debug\net5.0\Occerance of each character.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Occerance of each character\Occerance of each character\obj\Debug\net5.0\Occerance of each character.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Occerance of each character\Occerance of each character\obj\Debug\net5.0\Occerance of each character.dll
+C:\Users\Asus\source\repos\Occerance of each character\Occerance of each character\obj\Debug\net5.0\ref\Occerance of each character.dll
+C:\Users\Asus\source\repos\Occerance of each character\Occerance of each character\obj\Debug\net5.0\Occerance of each character.pdb
+C:\Users\Asus\source\repos\Occerance of each character\Occerance of each character\obj\Debug\net5.0\Occerance of each character.genruntimeconfig.cache
